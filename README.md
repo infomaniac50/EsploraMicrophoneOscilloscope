@@ -1,6 +1,6 @@
 ## Esplora Microphone Oscilloscope ##
 
-An Oscilloscope using the Arduino Esplora and a TFT display.
+An oscilloscope using the Arduino Esplora and a TFT display.
 
 ### Parts ###
 - 1 Arduino Esplora [http://arduino.cc/en/Main/ArduinoBoardEsplora](http://arduino.cc/en/Main/ArduinoBoardEsplora)
